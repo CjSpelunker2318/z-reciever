@@ -1,5 +1,5 @@
 basic.show_string("RECEIVER")
-radio.set_group(787)
+radio.set_group(56)
 serial.write_line("Acceleration")
 
 def on_received_number(receivedNumber):
