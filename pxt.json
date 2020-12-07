@@ -1,5 +1,5 @@
 {
-    "name": "Z-reciever",
+    "name": "reciever",
     "description": "",
     "dependencies": {
         "core": "*",
