@@ -1,5 +1,4 @@
 {
-    "name": "reciever",
     "description": "",
     "dependencies": {
         "core": "*",
